@@ -1,6 +1,5 @@
 use_frameworks!
 target 'PhaxioiOS_Tests' do
   pod 'PhaxioiOS', :path => '../'
-  
-  
+  pod 'OHHTTPStubs'
 end

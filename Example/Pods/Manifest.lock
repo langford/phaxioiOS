@@ -1,0 +1,16 @@
+PODS:
+  - PhaxioiOS (0.1.0)
+
+DEPENDENCIES:
+  - PhaxioiOS (from `../`)
+
+EXTERNAL SOURCES:
+  PhaxioiOS:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PhaxioiOS: 859de3380ea0bd4b8b83bc54d959bf32d0a2e34a
+
+PODFILE CHECKSUM: 6210e7b1c6bfe18ddd403e9c06ff1bad3c2313af
+
+COCOAPODS: 1.1.1

@@ -20,10 +20,6 @@ it, simply add the following line to your Podfile:
 pod "PhaxioiOS"
 ```
 
-## Author
-
-Nick Schulze, nick.schulze@goldfinchims.com
-
 ## License
 
 PhaxioiOS is available under the MIT license. See the LICENSE file for more info.

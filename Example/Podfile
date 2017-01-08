@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PhaxioiOS_Tests' do
+  pod 'PhaxioiOS', :path => '../'
+  
+  
+end
